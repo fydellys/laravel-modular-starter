@@ -40,7 +40,10 @@
             "App\\": "app/",
             "Database\\Seeders\\": "modules/Platform/Database/Seeders/",
             "Modules\\": "modules/"
-        }
+        },
+        "files": [
+            "modules/Shared/Helpers/Helpers.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
